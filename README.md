@@ -1,5 +1,5 @@
 # TDD Basics
-Let's do our first steps in Test Driven Development with JavaScript.
+Let's take our first steps in Test Driven Development with JavaScript.
 
 ## Setup
 First, make sure you have [nodejs](https://nodejs.org/en/) and npm (comes with nodejs) installed.
