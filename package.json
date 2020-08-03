@@ -1,0 +1,19 @@
+{
+  "name": "advent-of-code-2019",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "esm": "^3.2.25",
+    "mocha": "^7.1.0",
+    "sinon": "^9.0.1",
+    "sinon-chai": "^3.5.0"
+  },
+  "scripts": {
+    "test": "mocha -r esm tests/**/*.spec.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
