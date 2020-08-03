@@ -7,5 +7,5 @@ import 'mocha';
 chai.use(sinonChai);
  
 describe('First Day', () => {
-  
+  expect(false).to.not.be.true;
 });

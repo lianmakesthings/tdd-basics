@@ -7,8 +7,8 @@
   "devDependencies": {
     "chai": "^4.2.0",
     "esm": "^3.2.25",
-    "mocha": "^7.1.0",
-    "sinon": "^9.0.1",
+    "mocha": "^8.1.0",
+    "sinon": "^9.0.2",
     "sinon-chai": "^3.5.0"
   },
   "scripts": {
